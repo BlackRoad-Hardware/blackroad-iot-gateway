@@ -1,5 +1,13 @@
 # blackroad-iot-gateway
 
+> IoT device gateway with MQTT and HTTP bridge
+
+Part of the [BlackRoad OS](https://blackroad.io) ecosystem — [BlackRoad-Hardware](https://github.com/BlackRoad-Hardware)
+
+---
+
+# blackroad-iot-gateway
+
 IoT device gateway with MQTT and HTTP bridge
 
 **BlackRoad-Hardware** — IoT — sensors, Hailo-8, fleet
